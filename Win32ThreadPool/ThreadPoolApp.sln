@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadPoolApp", "ThreadPoolApp.vcproj", "{0B860F68-5C4F-47F1-BACA-A417A8F5AE36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B860F68-5C4F-47F1-BACA-A417A8F5AE36}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B860F68-5C4F-47F1-BACA-A417A8F5AE36}.Debug|Win32.Build.0 = Debug|Win32
+		{0B860F68-5C4F-47F1-BACA-A417A8F5AE36}.Release|Win32.ActiveCfg = Release|Win32
+		{0B860F68-5C4F-47F1-BACA-A417A8F5AE36}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
